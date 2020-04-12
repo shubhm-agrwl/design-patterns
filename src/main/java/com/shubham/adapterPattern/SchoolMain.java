@@ -1,5 +1,9 @@
 package com.shubham.adapterPattern;
 
+/*
+@Author Shubham Agrawal
+ */
+
 public class SchoolMain {
 
   public static void main(String[] args) {

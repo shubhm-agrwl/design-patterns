@@ -1,5 +1,9 @@
 package com.shubham.prototypePattern;
 
+/*
+@Author Shubham Agrawal
+ */
+
 public class PrototypeMain {
 
   public static void main(String[] args) throws CloneNotSupportedException {

@@ -1,5 +1,9 @@
 package com.shubham.compositePattern;
 
+/*
+@Author Shubham Agrawal
+ */
+
 public class CompositeMain {
 
   public static void main(String[] args) {
