@@ -1,5 +1,7 @@
 # Design Patterns:
 
+A design pattern provides a general reusable solution for the common problems
+
 # Principals of Design Patterns:
 
 1. Composition over inheritance
@@ -15,10 +17,12 @@
 1. Factory - low coupling, high cohesion
 2. Builder
 3. Prototype
+4. Singleton
 
 # Structural Design Patterns
 1. Adapter
 2. Composite - objects define a tree structure
+3. Proxy
 
 # Behavioural Design Patterns
 1. Observer
