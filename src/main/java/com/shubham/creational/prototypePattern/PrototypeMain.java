@@ -9,12 +9,12 @@ public class PrototypeMain {
   public static void main(String[] args) throws CloneNotSupportedException {
 
     BookShop bookShop = new BookShop();
-    bookShop.setShopName("Book ShopMain Name");
+    bookShop.setShopName("PrototypePatternMain");
     bookShop.loadData();
     System.out.println(bookShop);
 
     BookShop bookShop1 = bookShop.clone();
-    bookShop1.setShopName("ShopMain 2");
+    bookShop1.setShopName("PrototypePatternMain 2");
     System.out.println(bookShop1);
 
   }

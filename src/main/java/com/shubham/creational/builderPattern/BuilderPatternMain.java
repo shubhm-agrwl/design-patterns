@@ -4,7 +4,7 @@ package com.shubham.creational.builderPattern;
 @Author Shubham Agrawal
  */
 
-public class ShopMain {
+public class BuilderPatternMain {
 
   public static void main(String[] args) {
 
