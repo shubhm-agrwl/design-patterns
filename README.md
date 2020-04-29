@@ -39,7 +39,7 @@ A design pattern provides a general reusable solution for the common problems
 10. Template
 11. Visitor
 
-#MVC
+# MVC
 
-#Detailed Doc
+# Detailed Doc
 https://docs.google.com/document/d/1A4MmumYZO__ZaA2DY8KumydEKodLgAq75w0IRXtZ6xY/edit?usp=sharing
