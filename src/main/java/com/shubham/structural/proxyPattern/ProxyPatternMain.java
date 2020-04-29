@@ -1,5 +1,8 @@
 package com.shubham.structural.proxyPattern;
 
+/*
+@Author Shubham Agrawal
+ */
 public class ProxyPatternMain {
 
   public static void main(String[] args) throws Exception {

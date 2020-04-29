@@ -1,5 +1,8 @@
 package com.shubham.creational.singletonPattern;
 
+/*
+@Author Shubham Agrawal
+ */
 public class SingletonMain {
 
   public static void main(String[] args) {

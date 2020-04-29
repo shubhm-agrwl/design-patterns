@@ -1,5 +1,8 @@
 package com.shubham.behavioral.iteratorPattern;
 
+/*
+@Author Shubham Agrawal
+ */
 public class IteratorPatternMain {
 
   public static void main(String[] args) {

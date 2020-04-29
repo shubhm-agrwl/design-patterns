@@ -1,5 +1,8 @@
 package com.shubham.structural.decoratorPattern;
 
+/*
+@Author Shubham Agrawal
+ */
 public class DecoratorPatternExampleMain {
 
   public static void main(String[] args) {

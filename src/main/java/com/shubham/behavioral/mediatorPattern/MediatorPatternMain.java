@@ -1,5 +1,8 @@
 package com.shubham.behavioral.mediatorPattern;
 
+/*
+@Author Shubham Agrawal
+ */
 public class MediatorPatternMain {
 
   public static void main(String[] args) {

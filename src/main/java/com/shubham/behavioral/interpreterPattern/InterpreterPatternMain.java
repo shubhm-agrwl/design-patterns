@@ -1,5 +1,8 @@
 package com.shubham.behavioral.interpreterPattern;
 
+/*
+@Author Shubham Agrawal
+ */
 public class InterpreterPatternMain {
 
   //Rule: Robert and John are male

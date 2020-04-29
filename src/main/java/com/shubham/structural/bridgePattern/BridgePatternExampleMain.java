@@ -1,5 +1,8 @@
 package com.shubham.structural.bridgePattern;
 
+/*
+@Author Shubham Agrawal
+ */
 public class BridgePatternExampleMain {
 
   public static void main(String[] args) {

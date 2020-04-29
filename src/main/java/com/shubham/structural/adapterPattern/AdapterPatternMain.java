@@ -3,7 +3,6 @@ package com.shubham.structural.adapterPattern;
 /*
 @Author Shubham Agrawal
  */
-
 public class AdapterPatternMain {
 
   public static void main(String[] args) {

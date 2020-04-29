@@ -2,6 +2,9 @@ package com.shubham.structural.flyweightPattern;
 
 import java.util.Random;
 
+/*
+@Author Shubham Agrawal
+ */
 public class FlyweightPatternExampleMain {
 
   private static String employeeType[] = {"Developer", "Tester"};
